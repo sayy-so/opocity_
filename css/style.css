@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    color:#fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+
+img {
+    opacity: 0;
+    position: absolute;
+    transition: 1s;
+}
+
+
+.i2 {
+    left: 900px;
+    top: 150px;
+}
+
+.i1 {
+    top: 80px;
+    left: 80px;
+}
+
+.i3 {
+    left: 1100px;
+    top: 359px;
+}
+
+
+.i4 {
+    left: 600px;
+    top: 500px;
+}
+
+.i5 {
+    left: 400px;
+    top: 460px;
+}
+
+
+.i6 {
+    left: 200px;
+    top:350px;
+}
+
+
+body {
+    background-color:black;
+}
